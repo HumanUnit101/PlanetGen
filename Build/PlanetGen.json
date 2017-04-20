@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "PlanetGen.data.unityweb",
+"asmCodeUrl": "PlanetGen.asm.code.unityweb",
+"asmMemoryUrl": "PlanetGen.asm.memory.unityweb",
+"asmFrameworkUrl": "PlanetGen.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
